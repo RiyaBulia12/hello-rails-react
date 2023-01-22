@@ -13,8 +13,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -26,7 +24,7 @@
 
 # 📖 Hello World <a name="about-project"></a>
 
-> This project provides the endpoint based on ruby on rails to generate random greeting messages which in is used by react Frontend application, all implemented in single app with webpack.
+> This project provides the endpoint based on ruby on rails to generate random greeting messages which in is used by react frontend application, all implemented in single app with webpack.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -58,20 +56,18 @@
 
 ### Key Features <a name="key-features"></a>
 
-- ** Generate Random Messages**
+- **Generate Random Messages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](Coming Soon)
+- Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -114,7 +110,7 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>k
+## 👥 Authors <a name="authors"></a>
 
 👤 **Riya Bulia**
 
